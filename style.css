@@ -1,0 +1,15 @@
+.heading 
+{
+   width:100%
+
+}
+#f1
+{
+   bottom: 0px;
+}
+canvas
+{
+   border: 3px solid white;
+   border-radius: 10px;
+   box-shadow: 5px 5px 5px white;
+}
